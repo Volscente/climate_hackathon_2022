@@ -18,4 +18,16 @@ It contains information about anthropogenic emissions:
 - unspecified mix of HFCs and PFCs
 - ulphur hexafluoride (SF6)
 - nitrogen triflouride (NF3)
-The file 'greenhouse_gas_inventory_data_data.csv'.
+The file is **'greenhouse_gas_inventory_data_data.csv'**.
+
+
+## WorldClim - Historical Climate Data
+This [Portal](https://www.worldclim.org/data/worldclim21.html) contains historical information from 1970-200 about several datasets:
+- minimum temperature
+- maximum temperature
+- average temperature
+- precipitation
+- solar radiation
+- wind speed
+- water vapor pressure
+- 12 Bioclimatic variables
