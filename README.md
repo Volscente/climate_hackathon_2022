@@ -39,3 +39,9 @@ The dataset collects information about snow, ice, glaciers, frozen ground and cl
 that make up Earth's cryosphere. It shows its extension, divided by hemisphere, over the
 period 1978 - 2019.
 The file is **'seaice.csv'**
+
+
+## Copernicus (TODO)
+
+
+## Microsoft - Data for Society (TODO)
