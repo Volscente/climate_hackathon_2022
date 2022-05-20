@@ -16,8 +16,8 @@ It contains information about anthropogenic emissions:
 - nitrous oxide (N2O)
 - hydrofluorocarbons (HFCs)
 - perfluorocarbons (PFCs)
-- unspecified mix of HFCs and PFCs
-- ulphur hexafluoride (SF6)
+- unspecified mix of HFCs and PFC
+- sulphur hexafluoride (SF6)
 - nitrogen triflouride (NF3)
 The file is **'greenhouse_gas_inventory_data_data.csv'**.
 
